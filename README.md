@@ -1,7 +1,5 @@
 # ST590 - Project 2
 
-Authored by Group 13 - Dave Bergeron, Xavier Genelin, Maksim Nikiforov
-
 March, 2022
 
 ## About
