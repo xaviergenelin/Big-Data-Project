@@ -1,9 +1,7 @@
-# ST590 - Project 2
+# Big Data
 
-March, 2022
-
-## About
-This project provides a synopsis of a company’s big data pipeline, investigates data in a sample database, and summarizes NFL data using the Pandas API on Spark.
+## Purpose
+This was a class project to understand big data processes and also explore SQL and Spark. This project provides a synopsis of Netflix’s big data pipeline, investigates data in a sample database with SQL, and summarizes NFL data using the Pandas API on Spark.
 
 Citations for part 1 have been added using [jupyterlab-citation-manager](https://github.com/krassowski/jupyterlab-citation-manager).
 
@@ -15,3 +13,26 @@ $ pip install jupyter_nbextensions_configurator
 $ jupyter contrib nbextension install --user 
 $ jupyter nbextensions_configurator enable --user
 ```
+
+## Dependencies
+* pandas
+* numpy
+* matplotlib
+* scipy
+* sqlite3
+* pyspark
+
+## Dataset Description
+
+The dataset for part 2 comes from [a github repository](https://github.com/jpwhite3/northwind-SQLite3) but has been modified. In part 3, we use an NFL dataset that have game data from the 2002-2014 seasons.
+
+## Results
+
+### Part 1
+[Notebook](https://github.com/xaviergenelin/Big-Data-Project/blob/main/Group_13_Part_1.ipynb)
+
+### Part 2
+[Notebook](https://github.com/xaviergenelin/Big-Data-Project/blob/main/Group_13_Part_2.ipynb)
+
+### Part 3
+[Notebook](https://github.com/xaviergenelin/Big-Data-Project/blob/main/Group_13_Part_3.ipynb)
